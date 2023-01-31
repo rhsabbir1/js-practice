@@ -14,6 +14,19 @@ function isEven(number){
 }
 var number = 0;
 var cheekEven = isEven(number)
-console.log(cheekEven)
+// console.log(cheekEven)
 
-var a = 20
+// odd number Cheek 
+
+function isOdd(number){
+    if(number % 2 != 0){
+        return true;
+    }
+    else{
+        return false;
+    }
+}
+
+var number2 = 21;
+var cheekOdd = isOdd(number2)
+console.log('This number is odd :', cheekOdd)
