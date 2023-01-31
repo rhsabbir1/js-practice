@@ -1,5 +1,5 @@
 function getOddNumbersSumOfArray(numbers){
-    sum = 0;
+    let sum = 0;
     for(let i = 0; i < numbers.length; i++){
         const index = i;
         const element = numbers[index];
