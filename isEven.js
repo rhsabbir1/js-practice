@@ -15,3 +15,5 @@ function isEven(number){
 var number = 0;
 var cheekEven = isEven(number)
 console.log(cheekEven)
+
+var a = 20
