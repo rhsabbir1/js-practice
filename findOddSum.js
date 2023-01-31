@@ -12,8 +12,6 @@ function getSumOfArray(numbers){
 }
 
 
-
-
-var myNumbers = [ 15 , 11 , 55 , 22 , 17 , 21];
+var myNumbers = [ 12, 16, 8, 17 ,18 ,20 ,15 , 11,24 , 55 , 22 , 17];
 const sumOfArray = getSumOfArray(myNumbers)
-console.log(sumOfArray)
+// console.log(sumOfArray)
